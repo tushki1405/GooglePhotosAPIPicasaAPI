@@ -1,4 +1,4 @@
-# GooglePhotosAPIPicasaAPI
+# GooglePhotosApi(PicasaAPI)
 Using Google photos API (Picasa API) to upload pictures from desktop to Google photos. Script can do the following:
 - Show all existing albums
 - Dry Run mode - will show what the script will do, but won't upload pics
